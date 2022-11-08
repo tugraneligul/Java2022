@@ -11,5 +11,5 @@ public class GetAllTechnologyResponse {
 
     private String name;
 
-    private String LanguageName;
+    private String languageName;
 }
